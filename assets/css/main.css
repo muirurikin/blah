@@ -176,18 +176,3 @@ h1{
 .register-group textarea {
   height: 78px;
 }
-/*
-  ========================================
-  Buttons
-  ========================================
-*/
-
-.btn {
-  border-radius: 5px;
-  cursor: pointer;
-  display: inline-block;
-  font-weight: 400;
-  letter-spacing: .5px;
-  margin: 0;
-  text-transform: uppercase;
-}
